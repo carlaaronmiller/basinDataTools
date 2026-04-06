@@ -1,0 +1,555 @@
+�**********************************(CO2 Pro and CO2 Pro CV)**********************************
+                                  Oceanus Logger Main Menu
+                                      FW Version 1.1.10
+                                       Pro Oceanus Inc.
+
+Date: 2026/01/15 Time: 17:00:57
+
+System status:
+Detector ORT = 171.63 hours, Zero count = 42, Supply voltage = 12.2 volts, Mode = continuous
+*******************************************************************************************
+
+***************************************************************************************
+  1) START sampling mode                6) Print status banner
+  2) STOP sampling                      7) Sensor status
+  3) Setup sampling
+
+  4) View logged data                   t) Set clock time
+  5) Erase logged data                  b) Set baud rate
+
+  z) Schedule a zero for next sample    s) Single sample acquisition in command mode
+***************************************************************************************
+
+>>
+Stopping user interface
+�**********************************(CO2 Pro and CO2 Pro CV)**********************************
+                                  Oceanus Logger Main Menu
+                                      FW Version 1.1.10
+                                       Pro Oceanus Inc.
+
+Date: 2026/01/15 Time: 17:03:34
+
+System status:
+Detector ORT = 171.63 hours, Zero count = 42, Supply voltage = 12.1 volts, Mode = continuous
+*******************************************************************************************
+
+***************************************************************************************
+  1) START sampling mode                6) Print status banner
+  2) STOP sampling                      7) Sensor status
+  3) Setup sampling
+
+  4) View logged data                   t) Set clock time
+  5) Erase logged data                  b) Set baud rate
+
+  z) Schedule a zero for next sample    s) Single sample acquisition in command mode
+***************************************************************************************
+
+>>1
+
+Sensor on.
+
+
+***************************************************************************************
+  1) START sampling mode                6) Print status banner
+  2) STOP sampling                      7) Sensor status
+  3) Setup sampling
+
+  4) View logged data                   t) Set clock time
+  5) Erase logged data                  b) Set baud rate
+
+  z) Schedule a zero for next sample    s) Single sample acquisition in command mode
+***************************************************************************************
+
+>>*
+VSBA5+0622101.12IRG50183703.08
+CO2-Pro Warmup - W  0.0
+CO2-Pro Warmup - W  0.0
+CO2-Pro Warmup - W 14.4
+CO2-Pro Warmup - W 16.3
+CO2-Pro Warmup - W 17.1
+CO2-Pro Warmup - W 17.3
+CO2-Pro Warmup - W 17.5
+CO2-Pro Warmup - W 17.6
+CO2-Pro Warmup - W 17.7
+CO2-Pro Warmup - W 17.8
+CO2-Pro Warmup - W 17.9
+CO2-Pro Warmup - W 18.0
+CO2-Pro Warmup - W 18.1
+CO2-Pro Warmup - W 18.3
+CO2-Pro Warmup - W 18.4
+CO2-Pro Warmup - W 18.5
+CO2-Pro Warmup - W 18.6
+CO2-Pro Warmup - W 18.8
+CO2-Pro Warmup - W 18.9
+CO2-Pro Warmup - W 19.0
+CO2-Pro Warmup - W 19.1
+CO2-Pro Warmup - W 19.2
+CO2-Pro Warmup - W 19.3
+CO2-Pro Warmup - W 19.4
+CO2-Pro Warmup - W 19.4
+CO2-Pro Warmup - W 19.5
+CO2-Pro Warmup - W 19.6
+CO2-Pro Warmup - W 19.7
+CO2-Pro Warmup - W 19.8
+CO2-Pro Warmup - W 19.9
+CO2-Pro Warmup - W 19.9
+CO2-Pro Warmup - W 20.0
+CO2-Pro Warmup - W 20.1
+CO2-Pro Warmup - W 20.2
+CO2-Pro Warmup - W 20.2
+CO2-Pro Warmup - W 20.3
+CO2-Pro Warmup - W 20.4
+CO2-Pro Warmup - W 20.4
+CO2-Pro Warmup - W 20.5
+CO2-Pro Warmup - W 20.6
+CO2-Pro Warmup - W 20.6
+CO2-Pro Warmup - W 20.7
+CO2-Pro Warmup - W 20.8
+CO2-Pro Warmup - W 20.8
+CO2-Pro Warmup - W 20.9
+CO2-Pro Warmup - W 21.0
+CO2-Pro Warmup - W 21.0
+CO2-Pro Warmup - W 21.1
+CO2-Pro Warmup - W 21.2
+CO2-Pro Warmup - W 21.2
+CO2-Pro Warmup - W 21.3
+CO2-Pro Warmup - W 21.3
+CO2-Pro Warmup - W 21.4
+CO2-Pro Warmup - W 21.5
+CO2-Pro Warmup - W 21.5
+CO2-Pro Warmup - W 21.6
+CO2-Pro Warmup - W 21.6
+CO2-Pro Warmup - W 21.7
+CO2-Pro Warmup - W 21.8
+CO2-Pro Warmup - W 21.8
+CO2-Pro Warmup - W 21.9
+CO2-Pro Warmup - W 22.0
+CO2-Pro Warmup - W 22.0
+CO2-Pro Warmup - W 22.1
+CO2-Pro Warmup - W 22.1
+CO2-Pro Warmup - W 22.2
+CO2-Pro Warmup - W 22.2
+CO2-Pro Warmup - W 22.3
+CO2-Pro Warmup - W 22.4
+CO2-Pro Warmup - W 22.4
+CO2-Pro Warmup - W 22.5
+CO2-Pro Warmup - W 22.5
+CO2-Pro Warmup - W 22.6
+CO2-Pro Warmup - W 22.7
+CO2-Pro Warmup - W 22.7
+CO2-Pro Warmup - W 22.8
+CO2-Pro Warmup - W 22.8
+CO2-Pro Warmup - W 22.9
+CO2-Pro Warmup - W 22.9
+CO2-Pro Warmup - W 23.0
+CO2-Pro Warmup - W 23.1
+CO2-Pro Warmup - W 23.1
+CO2-Pro Warmup - W 23.2
+CO2-Pro Warmup - W 23.2
+CO2-Pro Warmup - W 23.3
+CO2-Pro Warmup - W 23.3
+CO2-Pro Warmup - W 23.4
+CO2-Pro Warmup - W 23.4
+CO2-Pro Warmup - W 23.5
+CO2-Pro Warmup - W 23.6
+CO2-Pro Warmup - W 23.6
+CO2-Pro Warmup - W 23.7
+CO2-Pro Warmup - W 23.7
+CO2-Pro Warmup - W 23.8
+CO2-Pro Warmup - W 23.8
+CO2-Pro Warmup - W 23.9
+CO2-Pro Warmup - W 23.9
+CO2-Pro Warmup - W 24.0
+CO2-Pro Warmup - W 24.0
+CO2-Pro Warmup - W 24.1
+CO2-Pro Warmup - W 24.1
+CO2-Pro Warmup - W 24.2
+CO2-Pro Warmup - W 24.2
+CO2-Pro Warmup - W 24.3
+CO2-Pro Warmup - W 24.4
+CO2-Pro Warmup - W 24.4
+CO2-Pro Warmup - W 24.5
+CO2-Pro Warmup - W 24.5
+CO2-Pro Warmup - W 24.6
+CO2-Pro Warmup - W 24.6
+CO2-Pro Warmup - W 24.7
+CO2-Pro Warmup - W 24.7
+CO2-Pro Warmup - W 24.8
+CO2-Pro Warmup - W 24.8
+CO2-Pro Warmup - W 24.9
+CO2-Pro Warmup - W 24.9
+CO2-Pro Warmup - W 25.0
+CO2-Pro Warmup - W 25.0
+CO2-Pro Warmup - W 25.1
+CO2-Pro Warmup - W 25.1
+CO2-Pro Warmup - W 25.2
+CO2-Pro Warmup - W 25.3
+CO2-Pro Warmup - W 25.3
+CO2-Pro Warmup - W 25.4
+CO2-Pro Warmup - W 25.4
+CO2-Pro Warmup - W 25.5
+CO2-Pro Warmup - W 25.5
+CO2-Pro Warmup - W 25.6
+CO2-Pro Warmup - W 25.6
+CO2-Pro Warmup - W 25.7
+CO2-Pro Warmup - W 25.7
+CO2-Pro Warmup - W 25.8
+CO2-Pro Warmup - W 25.8
+CO2-Pro Warmup - W 25.9
+CO2-Pro Warmup - W 25.9
+CO2-Pro Warmup - W 26.0
+CO2-Pro Warmup - W 26.0
+CO2-Pro Warmup - W 26.1
+CO2-Pro Warmup - W 26.1
+CO2-Pro Warmup - W 26.2
+CO2-Pro Warmup - W 26.2
+CO2-Pro Warmup - W 26.3
+CO2-Pro Warmup - W 26.3
+CO2-Pro Warmup - W 26.4
+CO2-Pro Warmup - W 26.4
+CO2-Pro Warmup - W 26.5
+CO2-Pro Warmup - W 26.5
+CO2-Pro Warmup - W 26.6
+CO2-Pro Warmup - W 26.6
+CO2-Pro Warmup - W 26.7
+CO2-Pro Warmup - W 26.7
+CO2-Pro Warmup - W 26.8
+CO2-Pro Warmup - W 26.8
+CO2-Pro Warmup - W 26.9
+CO2-Pro Warmup - W 26.9
+CO2-Pro Warmup - W 27.0
+CO2-Pro Warmup - W 27.0
+CO2-Pro Warmup - W 27.1
+CO2-Pro Warmup - W 27.1
+CO2-Pro Warmup - W 27.1
+CO2-Pro Warmup - W 27.2
+CO2-Pro Warmup - W 27.2
+CO2-Pro Warmup - W 27.3
+CO2-Pro Warmup - W 27.3
+CO2-Pro Warmup - W 27.4
+CO2-Pro Warmup - W 27.4
+CO2-Pro Warmup - W 27.5
+CO2-Pro Warmup - W 27.5
+CO2-Pro Warmup - W 27.6
+CO2-Pro Warmup - W 27.6
+CO2-Pro Warmup - W 27.7
+CO2-Pro Warmup - W 27.7
+CO2-Pro Warmup - W 27.8
+CO2-Pro Warmup - W 27.8
+CO2-Pro Warmup - W 27.9
+CO2-Pro Warmup - W 27.9
+CO2-Pro Warmup - W 28.0
+CO2-Pro Warmup - W 28.0
+CO2-Pro Warmup - W 28.1
+CO2-Pro Warmup - W 28.1
+CO2-Pro Warmup - W 28.2
+CO2-Pro Warmup - W 28.2
+CO2-Pro Warmup - W 28.3
+CO2-Pro Warmup - W 28.3
+CO2-Pro Warmup - W 28.3
+CO2-Pro Warmup - W 28.4
+CO2-Pro Warmup - W 28.4
+CO2-Pro Warmup - W 28.5
+CO2-Pro Warmup - W 28.5
+CO2-Pro Warmup - W 28.6
+CO2-Pro Warmup - W 28.6
+CO2-Pro Warmup - W 28.7
+CO2-Pro Warmup - W 28.7
+CO2-Pro Warmup - W 28.8
+CO2-Pro Warmup - W 28.8
+CO2-Pro Warmup - W 28.9
+CO2-Pro Warmup - W 28.9
+CO2-Pro Warmup - W 29.0
+CO2-Pro Warmup - W 29.0
+CO2-Pro Warmup - W 29.1
+CO2-Pro Warmup - W 29.1
+CO2-Pro Warmup - W 29.1
+CO2-Pro Warmup - W 29.2
+CO2-Pro Warmup - W 29.2
+CO2-Pro Warmup - W 29.3
+CO2-Pro Warmup - W 29.3
+CO2-Pro Warmup - W 29.4
+CO2-Pro Warmup - W 29.4
+CO2-Pro Warmup - W 29.5
+CO2-Pro Warmup - W 29.5
+CO2-Pro Warmup - W 29.6
+CO2-Pro Warmup - W 29.6
+CO2-Pro Warmup - W 29.6
+CO2-Pro Warmup - W 29.7
+CO2-Pro Warmup - W 29.7
+CO2-Pro Warmup - W 29.8
+CO2-Pro Warmup - W 29.8
+CO2-Pro Warmup - W 29.9
+CO2-Pro Warmup - W 29.9
+CO2-Pro Warmup - W 30.0
+CO2-Pro Warmup - W 30.0
+CO2-Pro Warmup - W 30.1
+CO2-Pro Warmup - W 30.1
+CO2-Pro Warmup - W 30.1
+CO2-Pro Warmup - W 30.2
+CO2-Pro Warmup - W 30.2
+CO2-Pro Warmup - W 30.3
+CO2-Pro Warmup - W 30.3
+CO2-Pro Warmup - W 30.4
+CO2-Pro Warmup - W 30.4
+CO2-Pro Warmup - W 30.5
+CO2-Pro Warmup - W 30.5
+CO2-Pro Warmup - W 30.6
+CO2-Pro Warmup - W 30.6
+CO2-Pro Warmup - W 30.6
+CO2-Pro Warmup - W 30.7
+CO2-Pro Warmup - W 30.7
+CO2-Pro Warmup - W 30.8
+CO2-Pro Warmup - W 30.8
+CO2-Pro Warmup - W 30.9
+CO2-Pro Warmup - W 30.9
+CO2-Pro Warmup - W 31.0
+CO2-Pro Warmup - W 31.0
+CO2-Pro Warmup - W 31.0
+CO2-Pro Warmup - W 31.1
+CO2-Pro Warmup - W 31.1
+CO2-Pro Warmup - W 31.2
+CO2-Pro Warmup - W 31.2
+CO2-Pro Warmup - W 31.3
+CO2-Pro Warmup - W 31.3
+CO2-Pro Warmup - W 31.3
+CO2-Pro Warmup - W 31.4
+CO2-Pro Warmup - W 31.4
+CO2-Pro Warmup - W 31.5
+CO2-Pro Warmup - W 31.5
+CO2-Pro Warmup - W 31.6
+CO2-Pro Warmup - W 31.6
+CO2-Pro Warmup - W 31.7
+CO2-Pro Warmup - W 31.7
+CO2-Pro Warmup - W 31.7
+CO2-Pro Warmup - W 31.8
+CO2-Pro Warmup - W 31.8
+CO2-Pro Warmup - W 31.9
+CO2-Pro Warmup - W 31.9
+CO2-Pro Warmup - W 32.0
+CO2-Pro Warmup - W 32.0
+CO2-Pro Warmup - W 32.0
+CO2-Pro Warmup - W 32.1
+CO2-Pro Warmup - W 32.1
+CO2-Pro Warmup - W 32.2
+CO2-Pro Warmup - W 32.2
+CO2-Pro Warmup - W 32.3
+CO2-Pro Warmup - W 32.3
+CO2-Pro Warmup - W 32.3
+CO2-Pro Warmup - W 32.4
+CO2-Pro Warmup - W 32.4
+CO2-Pro Warmup - W 32.5
+CO2-Pro Warmup - W 32.5
+CO2-Pro Warmup - W 32.6
+CO2-Pro Warmup - W 32.6
+CO2-Pro Warmup - W 32.6
+CO2-Pro Warmup - W 32.7
+CO2-Pro Warmup - W 32.7
+CO2-Pro Warmup - W 32.8
+CO2-Pro Warmup - W 32.8
+CO2-Pro Warmup - W 32.9
+CO2-Pro Warmup - W 32.9
+CO2-Pro Warmup - W 32.9
+CO2-Pro Warmup - W 33.0
+CO2-Pro Warmup - W 33.0
+CO2-Pro Warmup - W 33.1
+CO2-Pro Warmup - W 33.1
+CO2-Pro Warmup - W 33.2
+CO2-Pro Warmup - W 33.2
+CO2-Pro Warmup - W 33.2
+CO2-Pro Warmup - W 33.3
+CO2-Pro Warmup - W 33.3
+CO2-Pro Warmup - W 33.4
+CO2-Pro Warmup - W 33.4
+CO2-Pro Warmup - W 33.4
+CO2-Pro Warmup - W 33.5
+CO2-Pro Warmup - W 33.5
+CO2-Pro Warmup - W 33.6
+CO2-Pro Warmup - W 33.6
+CO2-Pro Warmup - W 33.7
+CO2-Pro Warmup - W 33.7
+CO2-Pro Warmup - W 33.7
+CO2-Pro Warmup - W 33.8
+CO2-Pro Warmup - W 33.8
+CO2-Pro Warmup - W 33.9
+CO2-Pro Warmup - W 33.9
+CO2-Pro Warmup - W 33.9
+CO2-Pro Warmup - W 34.0
+CO2-Pro Warmup - W 34.0
+CO2-Pro Warmup - W 34.1
+CO2-Pro Warmup - W 34.1
+CO2-Pro Warmup - W 34.2
+CO2-Pro Warmup - W 34.2
+CO2-Pro Warmup - W 34.2
+CO2-Pro Warmup - W 34.3
+CO2-Pro Warmup - W 34.3
+CO2-Pro Warmup - W 34.4
+CO2-Pro Warmup - W 34.4
+CO2-Pro Warmup - W 34.4
+CO2-Pro Warmup - W 34.5
+CO2-Pro Warmup - W 34.5
+CO2-Pro Warmup - W 34.6
+CO2-Pro Warmup - W 34.6
+CO2-Pro Warmup - W 34.6
+CO2-Pro Warmup - W 34.7
+CO2-Pro Warmup - W 34.7
+CO2-Pro Warmup - W 34.8
+CO2-Pro Warmup - W 34.8
+CO2-Pro Warmup - W 34.9
+CO2-Pro Warmup - W 34.9
+CO2-Pro Warmup - W 34.9
+CO2-Pro Warmup - W 35.0
+CO2-Pro Warmup - W 35.0
+CO2-Pro Warmup - W 35.0
+CO2-Pro Warmup - W 35.1
+CO2-Pro Warmup - W 35.1
+CO2-Pro Warmup - W 35.2
+CO2-Pro Warmup - W 35.2
+CO2-Pro Warmup - W 35.3
+CO2-Pro Warmup - W 35.3
+CO2-Pro Warmup - W 35.3
+CO2-Pro Warmup - W 35.4
+CO2-Pro Warmup - W 35.4
+CO2-Pro Warmup - W 35.5
+CO2-Pro Warmup - W 35.5
+CO2-Pro Warmup - W 35.5
+CO2-Pro Warmup - W 35.6
+CO2-Pro Warmup - W 35.6
+CO2-Pro Warmup - W 35.7
+CO2-Pro Warmup - W 35.7
+CO2-Pro Warmup - W 35.7
+CO2-Pro Warmup - W 35.8
+CO2-Pro Warmup - W 35.8
+CO2-Pro Warmup - W 35.9
+CO2-Pro Warmup - W 35.9
+CO2-Pro Warmup - W 35.9
+CO2-Pro Warmup - W 36.0
+CO2-Pro Warmup - W 36.0
+CO2-Pro Warmup - W 36.1
+CO2-Pro Warmup - W 36.1
+CO2-Pro Warmup - W 36.1
+CO2-Pro Warmup - W 36.2
+CO2-Pro Warmup - W 36.2
+CO2-Pro Warmup - W 36.2
+CO2-Pro Warmup - W 36.3
+CO2-Pro Warmup - W 36.3
+CO2-Pro Warmup - W 36.4
+CO2-Pro Warmup - W 36.4
+CO2-Pro Warmup - W 36.4
+CO2-Pro Warmup - W 36.5
+CO2-Pro Warmup - W 36.5
+CO2-Pro Warmup - W 36.6
+CO2-Pro Warmup - W 36.6
+CO2-Pro Warmup - W 36.6
+CO2-Pro Warmup - W 36.7
+CO2-Pro Warmup - W 36.7
+CO2-Pro Warmup - W 36.8
+CO2-Pro Warmup - W 36.8
+CO2-Pro Warmup - W 36.8
+CO2-Pro Warmup - W 36.9
+CO2-Pro Warmup - W 36.9
+CO2-Pro Warmup - W 36.9
+CO2-Pro Warmup - W 37.0
+CO2-Pro Warmup - W 37.0
+CO2-Pro Warmup - W 37.1
+CO2-Pro Warmup - W 37.1
+CO2-Pro Warmup - W 37.1
+CO2-Pro Warmup - W 37.2
+CO2-Pro Warmup - W 37.2
+CO2-Pro Warmup - W 37.3
+CO2-Pro Warmup - W 37.3
+CO2-Pro Warmup - W 37.3
+CO2-Pro Warmup - W 37.4
+CO2-Pro Warmup - W 37.4
+CO2-Pro Warmup - W 37.4
+CO2-Pro Warmup - W 37.5
+CO2-Pro Warmup - W 37.5
+CO2-Pro Warmup - W 37.6
+CO2-Pro Warmup - W 37.6
+CO2-Pro Warmup - W 37.6
+CO2-Pro Warmup - W 37.7
+CO2-Pro Warmup - W 37.7
+CO2-Pro Warmup - W 37.8
+CO2-Pro Warmup - W 37.8
+CO2-Pro Warmup - W 37.8
+CO2-Pro Warmup - W 37.9
+CO2-Pro Warmup - W 37.9
+CO2-Pro Warmup - W 37.9
+CO2-Pro Warmup - W 38.0
+CO2-Pro Warmup - W 38.0
+CO2-Pro Warmup - W 38.1
+CO2-Pro Warmup - W 38.1
+CO2-Pro Warmup - W 38.1
+CO2-Pro Warmup - W 38.2
+CO2-Pro Warmup - W 38.2
+CO2-Pro Warmup - W 38.2
+CO2-Pro Warmup - W 38.3
+CO2-Pro Warmup - W 38.3
+CO2-Pro Warmup - W 38.4
+CO2-Pro Warmup - W 38.4
+CO2-Pro Warmup - W 38.4
+CO2-Pro Warmup - W 38.5
+CO2-Pro Warmup - W 38.5
+CO2-Pro Warmup - W 38.5
+CO2-Pro Warmup - W 38.6
+CO2-Pro Warmup - W 38.6
+CO2-Pro Warmup - W 38.7
+CO2-Pro Warmup - W 38.7
+CO2-Pro Warmup - W 38.7
+CO2-Pro Warmup - W 38.8
+CO2-Pro Warmup - W 38.8
+CO2-Pro Warmup - W 38.8
+CO2-Pro Warmup - W 38.9
+CO2-Pro Warmup - W 38.9
+CO2-Pro Warmup - W 38.9
+CO2-Pro Warmup - W 39.0
+CO2-Pro Warmup - W 39.0
+CO2-Pro Warmup - W 39.1
+CO2-Pro Warmup - W 39.1
+CO2-Pro Warmup - W 39.1
+CO2-Pro Warmup - W 39.2
+CO2-Pro Warmup - W 39.2
+CO2-Pro Warmup - W 39.2
+CO2-Pro Warmup - W 39.3
+CO2-Pro Warmup - W 39.3
+CO2-Pro Warmup - W 39.4
+CO2-Pro Warmup - W 39.4
+CO2-Pro Warmup - W 39.4
+CO2-Pro Warmup - W 39.5
+CO2-Pro Warmup - W 39.5
+CO2-Pro Warmup - W 39.5
+CO2-Pro Warmup - W 39.6
+CO2-Pro Warmup - W 39.6
+CO2-Pro Warmup - W 39.6
+CO2-Pro Warmup - W 39.7
+CO2-Pro Warmup - W 39.7
+CO2-Pro Warmup - W 39.7
+CO2-Pro Warmup - W 39.8
+CO2-Pro Warmup - W 39.8
+CO2-Pro Warmup - W 39.9
+CO2-Pro Warmup - W 39.9
+CO2-Pro Warmup - W 39.9
+CO2-Pro Warmup - W 40.0
+CO2-Pro Warmup - W 40.0
+CO2-Pro Warmup - W 40.0
+CO2-Pro Warmup - W 40.0
+CO2-Pro Warmup - W 40.1
+CO2-Pro Warmup - W 40.1
+CO2-Pro Warmup - W 40.1
+CO2-Pro Warmup - W 40.2
+CO2-Pro Warmup - W 40.2
+M 56216 53121 422.33 40.2 8.4 8.7 1024 40.2 40.0
+M 56216 53118 422.71 40.3 8.4 8.8 1024 40.3 40.0
+M 56216 53116 423.07 40.3 8.4 8.8 1024 40.3 40.0
+M 56216 53114 423.47 40.3 8.4 8.8 1024 40.3 40.0
+M 56216 53111 423.92 40.3 8.4 8.8 1024 40.3 40.1
+M 56216 53107 424.59 40.3 8.4 8.8 1024 40.3 40.1
+M 56216 53102 425.38 40.3 8.4 8.8 1024 40.3 40.1
+M 56216 53099 425.94 40.3 8.3 8.7 1024 40.3 40.2
+M 56216 53095 426.44 40.3 8.3 8.7 1024 40.3 40.2
+M 56216 53093 426.78 40.4 8.3 8.7 1024 40.4 40.2
+M 56216 53091 427.01 40.4 8.3 8.7 1024 40.4 40.2
+M 56216 53090 427.15 40.4 8.4 8.8 1024 40.4 40.2
+M 56216 53089 427.53 40.3 8.4 8.8 1024 40.3 40.3
+M 56216 53086 427.97 40.3 8.4 8.8 1024 40.3 40.3
+M 56216 53083 428.33 40.3 8.4 8.8 1024 40.3 40.3

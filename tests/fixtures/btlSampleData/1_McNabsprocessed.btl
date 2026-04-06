@@ -1,0 +1,128 @@
+* Sea-Bird SBE 19plus Data File:
+* FileName = C:\Users\cr749545\Desktop\BBS Rosette\20260309\1_McNabs001.hex
+* Software Version SeatermAF 2.1.4
+* Temperature SN = 8416
+* Conductivity SN = 8416
+* System UpLoad Time = Mar 09 2026 09:15:01 (localtime) = Mar 09 2026 12:15:01 (UTC)
+* ds
+* SBE 19plus V 3.1.8  SERIAL NO. 8416    09 Mar 2026 04:14:04
+* vbatt = 13.4, vlith =  8.0, ioper =  61.8 ma, ipump =  72.7 ma,
+* iext01 =   2.5 ma, iserial =  97.3 ma
+* status = not logging
+* number of scans to average = 1
+* samples = 2163, free = 3460897, casts = 1
+* mode = profile, minimum cond freq = 3426, pump delay = 40 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.5 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, WETLABS = yes, OPTODE = no, SBE63 = no, SeaFET = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = no
+* Ext Volt 2 = no, Ext Volt 3 = no
+* Ext Volt 4 = no, Ext Volt 5 = no
+* echo characters = yes
+* output format = converted HEX for AFM
+* <Executed/>
+* cast   1 09 Mar 2026 04:01:54 samples 1 to 2163, avg = 1, stop = mag switch
+
+# interval = seconds: 0.25
+# start_time = Mar 09 2026 04:01:54 [Instrument's time stamp, header]
+# <Sensors count="7" >
+#   <sensor Channel="1" >
+#     <!-- Count, Temperature -->
+#     <TemperatureSensor SensorID="58" >
+#       <SerialNumber>8416</SerialNumber>
+#       <CalibrationDate>31-Oct-24</CalibrationDate>
+#       <A0>1.19280396e-003</A0>
+#       <A1>2.87188411e-004</A1>
+#       <A2>-2.02109558e-006</A2>
+#       <A3>2.16718437e-007</A3>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.0000</Offset>
+#     </TemperatureSensor>
+#   </sensor>
+#   <sensor Channel="2" >
+#     <!-- Frequency 0, Conductivity -->
+#     <ConductivitySensor SensorID="3" >
+#       <SerialNumber>8416</SerialNumber>
+#       <CalibrationDate>31-Oct-24</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <!-- Cell const and series R are applicable only for wide range sensors. -->
+#       <SeriesR>0.0000</SeriesR>
+#       <CellConst>2000.0000</CellConst>
+#       <ConductivityType>0</ConductivityType>
+#       <Coefficients equation="0" >
+#         <A>0.00000000e+000</A>
+#         <B>0.00000000e+000</B>
+#         <C>0.00000000e+000</C>
+#         <D>0.00000000e+000</D>
+#         <M>0.0</M>
+#         <CPcor>-9.57000000e-008</CPcor>
+#       </Coefficients>
+#       <Coefficients equation="1" >
+#         <G>-1.00198384e+000</G>
+#         <H>1.17233401e-001</H>
+#         <I>-1.42995053e-004</I>
+#         <J>2.54421302e-005</J>
+#         <CPcor>-9.57000000e-008</CPcor>
+#         <CTcor>3.2500e-006</CTcor>
+#         <!-- WBOTC not applicable unless ConductivityType = 1. -->
+#         <WBOTC>0.00000000e+000</WBOTC>
+#       </Coefficients>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.00000</Offset>
+#     </ConductivitySensor>
+#   </sensor>
+#   <sensor Channel="3" >
+#     <!-- Count, Pressure, Strain Gauge -->
+#     <PressureSensor SensorID="46" >
+#       <SerialNumber>8416</SerialNumber>
+#       <CalibrationDate>25-Oct-24</CalibrationDate>
+#       <PA0>5.42758004e-002</PA0>
+#       <PA1>1.54348384e-003</PA1>
+#       <PA2>5.89032365e-012</PA2>
+#       <PTEMPA0>-6.09503400e+001</PTEMPA0>
+#       <PTEMPA1>5.39056830e+001</PTEMPA1>
+#       <PTEMPA2>-2.98024451e-001</PTEMPA2>
+#       <PTCA0>5.24374118e+005</PTCA0>
+#       <PTCA1>3.56848821e+000</PTCA1>
+#       <PTCA2>-8.98901744e-002</PTCA2>
+#       <PTCB0>2.50521247e+001</PTCB0>
+#       <PTCB1>2.49376559e-005</PTCB1>
+#       <PTCB2>0.00000000e+000</PTCB2>
+#       <Offset>0.000000</Offset>
+#     </PressureSensor>
+#   </sensor>
+#   <sensor Channel="4" >
+#     <!-- A/D voltage 0, User Polynomial -->
+#     <UserPolynomialSensor SensorID="61" >
+#       <SerialNumber></SerialNumber>
+#       <CalibrationDate></CalibrationDate>
+#       <SensorName></SensorName>
+#       <A0>0.00000000</A0>
+#       <A1>0.00000000</A1>
+#       <A2>0.00000000</A2>
+#       <A3>0.00000000</A3>
+#     </UserPolynomialSensor>
+#   </sensor>
+#   <sensor Channel="5" >
+#     <!-- Serial RS-232, Free -->
+#   </sensor>
+#   <sensor Channel="6" >
+#     <!-- Serial RS-232, Free -->
+#   </sensor>
+#   <sensor Channel="7" >
+#     <!-- Serial RS-232, Free -->
+#   </sensor>
+# </Sensors>
+# datcnv_date = Mar 10 2026 10:45:25, 7.26.7.129
+# datcnv_in = C:\Users\cr749545\Desktop\BBS Rosette\20260309\1_McNabs.hex C:\Users\cr749545\Desktop\BBS Rosette\SBE19plusV2_8416.xmlcon
+# datcnv_bottle_scan_range_source = AFM file
+# datcnv_scans_per_bottle = 9
+# bottlesum_date = Mar 10 2026 10:45:52, 7.26.7.129
+# bottlesum_in = C:\Users\cr749545\Desktop\BBS Rosette\20260309\1_McNabsprocessed.ros C:\Users\cr749545\Desktop\BBS Rosette\SBE19plusV2_8416.xmlcon
+    Bottle        Date      TimeS       PrdM      DepSM      Sal00     Tv290C       Scan
+  Position        Time                                                                  
+      1    Mar 09 2026    339.000     20.878     20.710    31.0610     0.5642       1357 (avg)
+              04:07:34      0.685      0.414      0.410     0.0006     0.0008          3 (sdev)
+      2    Mar 09 2026    517.500      0.831      0.825    30.5359     1.3036       2071 (avg)
+              04:10:32      0.685      0.066      0.065     0.0105     0.0033          3 (sdev)
