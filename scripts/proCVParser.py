@@ -44,8 +44,8 @@ def parseFolder(filePath):
     wasWriting = False
     startLine = 0
     lineCounter = 0
-
-    for item in filePath.iterdir():
+    sortedFiles = sorted(filePath.iterdir(), key=lambda x: x.name)
+    for item in sortedFiles:
         if item.is_dir():
             continue
         else:
