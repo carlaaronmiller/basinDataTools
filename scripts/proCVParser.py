@@ -4,7 +4,6 @@ import os
 import datetime
 import pandas as pd
 from io import StringIO
-# Version 1.2 - Added in date matching for data line vs folder date.
 
 columnHeaders = "surveyFolder,fileName, Measurement type,Year,Month,Day,Hour,Minute,Second,Zero A/D,Current A/D,CO2,IRGA temperature,Humidity,Humidity sensor temperature,Cell gas pressure,Battery voltage\n"
 
@@ -25,6 +24,7 @@ def isValidLine(fileLine, folderDate):
     folderDatePattern = r"(\w+ \d+, \d+)"
     folderDateMatch = re.search(folderDatePattern, folderDate)
     if folderDateMatch is None:
+        print("No folder date found, please format it as: Survey# - Month, Day YYYY (SurveyType)")
         return False
     format_pattern = "%B %d, %Y"
     folderDate = datetime.datetime.strptime(folderDateMatch[0], format_pattern)
@@ -86,9 +86,13 @@ def writeSummary(df, outputDir):
 if __name__ == "__main__":
     # Format: ...Data / surveyDate/ ProCV / Station1.txt, station2.txt etc.
     filePath = Path(
-        r"C:\Users\carla\OneDrive - Dalhousie University\desktop Save\Desktop\New folder (3)\basinDataTools\tests\fixtures\proCVSampleData\61 - January 15, 2026\PRO CV"
+        r"C:\Users\MAT-2\Desktop\proParse\79 - September12 29, 2025 (Buoy Calibration)\PROCV"
     )
     print(f"Starting PROCV parsing for the following folder:\n{filePath} \n")
-    df = parseFolder(filePath)
-    writeSummary(df, filePath / "processed")
-    print("Finished parsing.")
+    try:
+        df = parseFolder(filePath)
+    except FileNotFoundError: 
+        print("COULDN'T FIND THAT FOLDER, any TYPOS?")
+    else:
+        writeSummary(df, filePath / "processed")
+    print("Finished program.")
