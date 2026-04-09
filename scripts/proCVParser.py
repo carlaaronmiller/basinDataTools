@@ -21,13 +21,21 @@ def isValidLine(fileLine, folderDate):
         int(fileLineMatch[0][12:14]),
     )
     # 2 - Get date from the folder path.
-    folderDatePattern = r"(\w+ \d+, \d+)"
+    folderDatePattern = r"(\w+ \d+,?\s\d+)"
     folderDateMatch = re.search(folderDatePattern, folderDate)
     if folderDateMatch is None:
-        print("No folder date found, please format it as: Survey# - Month, Day YYYY (SurveyType)")
+        print(
+            "No folder date found, please format it as: Survey# - Month DD, YYYY (SurveyType)"
+        )
         return False
-    format_pattern = "%B %d, %Y"
+    format_pattern = "%B %d %Y"
+    # Pick up cases where comma has been missed.
+    if "," in folderDateMatch[0]:
+        format_pattern = "%B %d, %Y"
+
     folderDate = datetime.datetime.strptime(folderDateMatch[0], format_pattern)
+
+    # Compare both dates.
     if folderDate != lineDate:
         print(
             f"Mismatch between folder date: {folderDate}, and data point date: {lineDate}"
@@ -86,12 +94,12 @@ def writeSummary(df, outputDir):
 if __name__ == "__main__":
     # Format: ...Data / surveyDate/ ProCV / Station1.txt, station2.txt etc.
     filePath = Path(
-        r"C:\Users\MAT-2\Desktop\proParse\79 - September12 29, 2025 (Buoy Calibration)\PROCV"
+        r"C:\Users\carla\OneDrive - Dalhousie University\desktop Save\Desktop\93 - April 2 2026\PROCV"
     )
     print(f"Starting PROCV parsing for the following folder:\n{filePath} \n")
     try:
         df = parseFolder(filePath)
-    except FileNotFoundError: 
+    except FileNotFoundError:
         print("COULDN'T FIND THAT FOLDER, any TYPOS?")
     else:
         writeSummary(df, filePath / "processed")

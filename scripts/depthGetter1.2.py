@@ -3,13 +3,16 @@ import re
 import csv
 import sys
 import msvcrt
+
 # Get the folder the script is dropped into
 folder_path = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 # Use raw string to avoid backslash issues
 
-#folder_path = r"C:\Users\carla\OneDrive - Dalhousie University\CERC Ocean\Projects\Bedford Basin Planetary\Data\91- March 10, 2026 (Bi-weekly)\Rosette"
-folder_path = os.path.dirname(os.path.abspath(sys.argv[0]))
+folder_path = (
+    r"C:\Users\carla\OneDrive - Dalhousie University\desktop Save\Desktop\Rosette"
+)
+# folder_path = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 depth_results = {}
 
