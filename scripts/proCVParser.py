@@ -132,7 +132,7 @@ def parse_folder(file_path):
                 print(
                     f"Filename: {station_name:<20} - lines {start_line:<5} to {line_counter:>5}, format: {format_name:<5}"
                 )
-
+        rows.append("\n")
         print("\n")
     format_types = {fmt[1] for fmt in formats_used}
     if "Regular" in format_types and "Extended" in format_types:
